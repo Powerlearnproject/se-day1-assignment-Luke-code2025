@@ -1,0 +1,91 @@
+1.Software engineering is the application of engineering principles to create reliable and efficient software.
+Importance:
+Ensures quality and reliability
+Supports scalability and maintenance
+Saves time and cost through structured methods
+Enables team collaboration on complex projects
+2. Key Milestones in Software Engineering
+1968 NATO Conference: Introduced the term "software engineering" and highlighted the software crisis.
+Waterfall Model (1970s): Brought structured, sequential development stages.
+Agile Manifesto (2001): Introduced flexible, iterative development focused on working software.
+3. Phases of the Software Development Life Cycle (SDLC)
+Requirement Analysis: Understand what users need
+Design: Plan system architecture and components
+Implementation: Write and build the software
+Testing: Check for bugs and verify functionality
+Deployment: Release software to users
+Maintenance: Fix issues and make improvements
+
+3. Waterfall vs. Agile Methodologies
+Waterfall:
+Sequential, step-by-step process
+Best for fixed-scope projects (e.g., government systems)
+Agile:
+Iterative, flexible development
+Best for changing requirements (e.g., startups, mobile apps)
+Comparison:
+Waterfall is rigid; Agile adapts to change
+Waterfall fits well-defined goals; Agile suits evolving needs
+4. Team Roles in Software Engineering
+Software Developer:
+Writes and maintains code
+Builds features based on design
+Quality Assurance (QA) Engineer:
+Tests the software
+Ensures it works correctly and meets requirements
+Project Manager:
+Plans and oversees the project
+Coordinates team and manages timelines and risks
+3. Importance of IDEs and VCS
+IDEs (e.g., Visual Studio, IntelliJ):
+Provide tools for writing, testing, and debugging code
+Increase developer productivity
+VCS (e.g., Git, GitHub):
+Track code changes and manage versions
+Enable collaboration among developers
+
+4. Common Challenges & Solutions
+Challenges:
+Changing requirements
+Tight deadlines
+Debugging complex issues
+Communication gaps
+Solutions:
+Use Agile for flexibility
+Break tasks into sprints
+Use debugging tools
+Hold regular team meetings
+
+5. Types of Testing and Their Importance
+Unit Testing:
+Tests individual functions
+Ensures code correctness
+Integration Testing:
+Tests interaction between components
+Ensures they work together
+System Testing:
+Tests the entire application
+Checks overall functionality
+Acceptance Testing:
+Validates software meets user needs
+Ensures readiness for release
+
+#part 2
+ 1. What is Prompt Engineering and Why It Matters
+Prompt engineering is the practice of crafting clear and effective inputs (prompts) to guide AI models in generating accurate and useful responses.
+Importance:
+Helps AI understand the user’s intent better
+Improves the quality, relevance, and efficiency of the output
+Essential for getting consistent results in AI-powered tools like ChatGPT
+
+2. Prompt Example: Vague vs. Improved
+Vague Prompt:
+"Tell me about history."
+
+Improved Prompt:
+"Give a brief summary of World War II, focusing on the major causes and outcomes."
+
+Why the Improved Prompt Is Better:
+Specific topic: Focuses on WWII, not all history
+Clear scope: Asks for causes and outcomes
+
